@@ -1,0 +1,1 @@
+# SQL-satis-analizi
